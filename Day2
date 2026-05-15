@@ -1,0 +1,20 @@
+# Practice 
+
+name = input('enter you name ')
+print('welcome', name)
+
+age = int(input("enter your age "))
+print("your age after 5 years will be ", age + 5)
+
+sum1=10
+sum2=15
+print(sum1+sum2)
+
+x=22
+y=92
+print(x*y)
+
+height=float(input("enter height in mtr "))
+weight=float(input("enter weight in kgs "))
+bmi=weight/(height*height)
+print("Your Bmi is ",bmi)
