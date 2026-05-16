@@ -1,0 +1,13 @@
+name=(input("enter your name "))
+age=(int(input("your age " )))
+sum1=23
+sum2=44
+multiply=(sum1*sum2)
+divide=(sum1/sum2)
+add=(sum1+sum2)
+
+print(name)
+print(age)
+print(int(multiply))
+print(float(divide))
+print(int(add))
