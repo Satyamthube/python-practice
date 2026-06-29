@@ -18,8 +18,6 @@ def add_numbers(a, b):
 
 add_numbers(5, 3)
 
-
-
 def athlete_message(name):
     print(name, "keep training hard!")
 
